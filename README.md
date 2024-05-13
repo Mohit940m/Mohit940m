@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mohit940m
 - 👀 I’m interested in ... Basic Cpading
-- 🌱 I’m currently learning ... typing speed
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sahachowdhurymohit@gmail.com
 
