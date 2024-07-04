@@ -24,9 +24,9 @@ I am currently working on a few exciting projects to sharpen my skills in softwa
 
 ## Get in Touch
 
-- 📫 **Email:** sahachowdhurymohit@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/mohit-saha-chowdhury/
-- 🐦 **Twitter:** https://x.com/SahaMohit
+- 📫 **Email:**[sahachowdhurymohit@gmail.com](mailto:sahachowdhurymohit@gmail.com)
+- 💼 **LinkedIn:**[linkedin.com/in/mohit-saha-chowdhury](https://linkedin.com/in/mohit-saha-chowdhury)
+- 🐦 **Twitter:**[twitter.com/SahaMohit](https://twitter.com/SahaMohit)
 
 ## Interests
 
