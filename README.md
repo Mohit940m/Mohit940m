@@ -20,6 +20,7 @@ I am currently working on a few exciting projects to sharpen my skills in softwa
 
 - [Project 1](https://weather-app-react-chi-ten.vercel.app/): A responsive web application built with React that provides real-time weather updates using the OpenWeather API. Deployed on Vercel for seamless accessibility and performance.
 - [Project 2](https://github.com/Mohit940m/Full-Stack-contact-list-using-Flask): Full-stack contact management app utilizing React for a dynamic front end and Flask for a robust back end, enabling seamless contact organization and interaction
+- - [Project 3](https://github.com/Mohit940m/task_manager_Django): A Task Management Web Application built with Django and Bootstrap, featuring task creation, editing, deletion, status updates, photo uploads, and custom CSS for enhanced user interaction.
 
 
 ## Get in Touch
