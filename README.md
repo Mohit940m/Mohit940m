@@ -1,45 +1,171 @@
-# Hi there, I'm Mohit Saha Chowdhury 👋
+Hi there, I'm Mohit Saha Chowdhury 👋
+🚀 Backend Developer | DevOps-Aware
 
-## About Me
+I'm a backend-focused software developer with hands-on experience building production-grade APIs, CRM-type systems, E-commerce systems, and business logic for real-world applications.
+I started my journey with a B.Tech in Mechanical Engineering (2020), worked as a MEP Design Engineer and transitioned into full-stack development — now specialising in backend engineering and distributed systems.
 
-I'm a passionate and dedicated professional with a B. Tech in Mechanical Engineering, graduated in 2020. After spending a few years in the mechanical fields, particularly in MEP Design engineering, I've decided to pivot my career towards software development.
+💼 What I Do
 
-## My Journey
+🛠️ Backend Development
+Designing and implementing REST APIs, authentication systems, database schemas, and scalable business logic.
 
-- 🎓 **Education:** B. Tech in Mechanical Engineering
-- 💼 **Experience:** MEP Design engineering
-- 💻 **Transitioning to:** Software Development
-- 📚 **Learning:** 
-  - Programming languages like Python, and JavaScript
-  - Software development methodologies
-  - Tools and technologies like Git, React, and more
+⚙️ DevOps & Deployment Support
+Worked closely with DevOps engineers to deploy multiple apps on AWS (EC2).
 
-## Projects
+🧩 Microservices, CRM-Type Applications & E-commerce
+Experience building CRM-style backend systems, offer/discount engines, referral systems, and notification services.
 
-I am currently working on a few exciting projects to sharpen my skills in software development. Here are some of them:
+🧪 Clean and Maintainable Code
+I believe in writing tested, modular, and production-ready backend code.
 
-- [Project 1](https://weather-app-react-chi-ten.vercel.app/): A responsive web application built with React that provides real-time weather updates using the OpenWeather API. Deployed on Vercel for seamless accessibility and performance.
-- [Project 2](https://github.com/Mohit940m/Full-Stack-contact-list-using-Flask): Full-stack contact management app utilizing React for a dynamic front end and Flask for a robust back end, enabling seamless contact organization and interaction
-- [Project 3](https://github.com/Mohit940m/task_manager_Django): A Task Management Web Application built with Django and Bootstrap, featuring task creation, editing, deletion, status updates, photo uploads, and custom CSS for enhanced user interaction.
+🔧 Tech Stack
+Languages
+
+JavaScript / TypeScript
+
+Python
+
+Backend Frameworks (Working Knowledge)
+
+Node.js (Express.js, Nest.js)
+
+Django
+
+Flask
+
+Frontend (Working Knowledge)
+
+React.js
+
+Next.js
+
+Vue.js
+
+Databases
+
+MongoDB
+
+SQLite
+
+PostgreSQL (basic)
+
+Tools & DevOps
+
+Git, GitHub
+
+AWS (EC2, Route53)
+
+PM2, Nginx
+
+Docker (beginner)
+
+🧩 Featured Projects
+🌦️ Weather App (React + OpenWeather API + AI Integration)
+
+A responsive weather platform with AI-powered recommendations using the Gemini API.
+Recently added Integrated Air Quality Index (AQI) data.
+
+🔗 Live: https://weather-app-react-chi-ten.vercel.app/
+
+📇 Contact Management Web App (MERN Stack)
+
+Built a full-stack contact management application with secure user login and intuitive UI.
+
+🔗 Live: https://contact-management-web-application-hk2g.onrender.com/
+
+📌 Multi-User Collaboration Kanban-Style App (MERN + Socket.io)
+
+Built a real-time collaborative Kanban-style task management app with team-based boards and smart task
+ assignment.
+ 
+🔗 Repo: https://github.com/Mohit940m/ToDo_App_Kanban
+🔗 Live: https://todo-kanban-style.netlify.app/
+
+📇 Contact List App (React + Flask + MongoDB)
+
+Full-stack contact management system with CRUD operations, mobile-friendly UI, and clean backend architecture.
+
+🔗 Repo: https://github.com/Mohit940m/Full-Stack-contact-list-using-Flask
+
+👩‍🍳 Recipy AI App (MERN + Gemini AI)
+
+AI-powered recipe generator web app with ingredient selection, secure login, and dynamic UI. 
+
+🔗 Repo: https://github.com/Mohit940m/recipe-app
+🔗 Live: https://recipe-app-i61u.vercel.app/
+
+📇 Notes App Backend (FastAPI + MongoDB)
+
+🔗 Repo: https://github.com/Mohit940m/Notes-App_FastAPI_Backend
+🔗 Live: https://notes-app-fastapi-backend.onrender.com/
+
+📌 Django Task Manager
+
+Task management app with user-specific task boards, photo uploads, priority handling, and real-time UI improvements.
+🔗 Repo: https://github.com/Mohit940m/task_manager_Django
+
+💤 sleep_scheduler (Python + PyQt5 framework.(UI))
+
+A sleek, modern, and user-friendly desktop application for Windows to schedule your PC to sleep or hibernate after a set amount of time.
+
+🔗 Repo: https://github.com/Mohit940m/sleep_scheduler
 
 
-## Get in Touch
 
-- 📫 **Email:**[sahachowdhurymohit@gmail.com](mailto:sahachowdhurymohit@gmail.com)
-- 💼 **LinkedIn:**[linkedin.com/in/mohit-saha-chowdhury](https://linkedin.com/in/mohit-saha-chowdhury)
-- 🐦 **Twitter:**[twitter.com/SahaMohit](https://twitter.com/SahaMohit)
+⚙️ CRM & Offer Engine (Private Work)
 
-## Interests
+Built backend logic for:
 
-- Software Development
-- Web Development
-- Open Source Contributions
-- Learning new technologies and frameworks
+Dynamic offer/discount engines
 
-## Goals
+Referral systems
 
-- Contribute to open-source projects
-- Build impactful software solutions
-- Continuously learn and grow in the field of software development
+Multi-board Kanban app
 
-Feel free to reach out to me or explore my repositories to see my work. Let's connect and collaborate!
+User & staff notification systems
+
+Optimised MongoDB aggregation pipeline; reduced e-commerce server load and latency.
+
+(Private repos, but experience can be explained on request.)
+
+🌱 Currently Working On
+
+Advanced backends for CRM-type, E-commerce apps
+
+Improving DSA & system design skills
+
+More AWS deployment automation
+
+
+📫 Connect With Me
+
+Email: sahachowdhurymohit@gmail.com
+
+LinkedIn: https://linkedin.com/in/mohit-saha-chowdhury
+
+Twitter: https://twitter.com/SahaMohit
+
+Portfolio: https://mohit-saha-chowdhury.vercel.app/
+
+🧠 Interests
+
+Backend Engineering
+
+Cloud Deployment
+
+API Design
+
+CRM / SaaS Systems
+
+Open Source
+
+
+🎯 Goals
+
+Contribute more to open-source
+
+Build robust, scalable backend systems
+
+Improve knowledge in AWS, system design & distributed architecture
+
+Become a lead backend engineer
