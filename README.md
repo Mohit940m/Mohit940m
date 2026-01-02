@@ -1,5 +1,5 @@
 Hi there, I'm Mohit Saha Chowdhury 👋
-🚀 Backend Developer | DevOps-Aware
+🚀 Backend Developer | DevOps
 
 I'm a backend-focused software developer with hands-on experience building production-grade APIs, CRM-type systems, E-commerce systems, and business logic for real-world applications.
 I started my journey with a B.Tech in Mechanical Engineering (2020), worked as a MEP Design Engineer and transitioned into full-stack development — now specialising in backend engineering and distributed systems.
@@ -9,8 +9,9 @@ I started my journey with a B.Tech in Mechanical Engineering (2020), worked as a
 🛠️ Backend Development
 Designing and implementing REST APIs, authentication systems, database schemas, and scalable business logic.
 
-⚙️ DevOps & Deployment Support
-Worked closely with DevOps engineers to deploy multiple apps on AWS (EC2).
+⚙️ DevOps & Deployment Experience
+
+Independently containerized multiple personal projects using Docker, managed image versioning, and published both public and private images to Docker Hub. Deployed applications on AWS EC2 (t3.micro) using Docker and NGINX, configured HTTPS, and maintained continuous update workflows by pulling versioned images to production servers. Additionally, supported office deployments by assisting in production setup, troubleshooting, and deployment processes.
 
 🧩 Microservices, CRM-Type Applications & E-commerce
 Experience building CRM-style backend systems, offer/discount engines, referral systems, and notification services.
